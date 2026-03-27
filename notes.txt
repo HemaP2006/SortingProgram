@@ -1,0 +1,19 @@
+PROJECT TITLE:Sorting Program using Java
+
+Name:Hema Patil
+Course:Computer Science and Engineering
+
+INTRODUCTION:
+    This Project demonstrate the concept of sorting in java.
+    Sorting is used to arrange data in a specific order such as Ascending or Descending.
+
+OBJECTIVE:
+    -To understand sorting technique.
+    -TO Implement sorting using java.
+    -To learn versioning using Github.
+
+DESCRIPTION:
+    -In this Project, we have implemented a sorting program to arrange number in ascending order.
+    -Different Versions of the Program are created to show improvements and changes.
+
+
